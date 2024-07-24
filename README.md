@@ -2,6 +2,8 @@
 
 <h3 align="center">Bachelor's degree in Computer Engineering 🎓 </h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AlbertoAndretta&label=Alberto's%20Profile%20Views%20&color=blue&style=for-the-badge" alt="AlbertoAndretta" /> </p>
+
 <h3 align="center">🔥 Streak Stats </h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertoAndretta&theme=algolia" alt="AlbertoAndretta" /></p>
